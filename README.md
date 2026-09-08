@@ -1,4 +1,4 @@
-# 🛒 Prime Mart Sales and Customer Analysis Dashboard
+# 🛒 Prime Mart Sales and Customer Analysis
 
 An interactive and business-focused **Power BI Dashboard** developed to analyze Prime Mart's retail sales performance, customer retention and churn behavior, product contribution, store-wise sales trends, and Year-over-Year (YOY) business growth.
 
